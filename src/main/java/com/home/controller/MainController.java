@@ -1,6 +1,6 @@
-package com.home.appController;
+package com.home.controller;
 
-import com.home.Dto.UserDataDto;
+import com.home.dto.UserDataDto;
 
 
 import com.home.service.LCService;

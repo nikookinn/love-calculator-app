@@ -1,7 +1,7 @@
-package com.home.appController;
+package com.home.controller;
 
-import com.home.Dto.ReceiverEmailDto;
-import com.home.Dto.UserDataDto;
+import com.home.dto.ReceiverEmailDto;
+import com.home.dto.UserDataDto;
 import com.home.service.EmailServiceImpl;
 import jakarta.mail.MessagingException;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package com.home.formatter;
 
-import com.home.Dto.Phone;
+import com.home.dto.Phone;
 import org.springframework.format.Formatter;
 
 import java.text.ParseException;

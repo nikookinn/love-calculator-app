@@ -1,7 +1,7 @@
 package com.home.config;
 
 
-import com.home.Dto.Phone;
+import com.home.dto.Phone;
 import com.home.formatter.PhoneFormatter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

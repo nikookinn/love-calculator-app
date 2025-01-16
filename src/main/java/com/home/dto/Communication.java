@@ -1,4 +1,4 @@
-package com.home.Dto;
+package com.home.dto;
 
 import com.home.validation.Email;
 

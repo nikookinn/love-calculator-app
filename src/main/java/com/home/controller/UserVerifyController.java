@@ -1,6 +1,6 @@
-package com.home.appController;
+package com.home.controller;
 
-import com.home.Dto.UserVerificationDto;
+import com.home.dto.UserVerificationDto;
 import com.home.service.PhoneNumberVerificationService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

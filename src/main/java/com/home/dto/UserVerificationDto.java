@@ -1,4 +1,4 @@
-package com.home.Dto;
+package com.home.dto;
 
 public class UserVerificationDto {
     private String phoneNumber;
