@@ -65,11 +65,16 @@ Open your browser and navigate to:
 http://localhost:8080
 
 
-![Screenshot 2025-01-16 152108](https://github.com/user-attachments/assets/1028dd0c-a8a8-47b2-b91f-acd8ee2add2a)
-![Screenshot 2025-01-16 152748](https://github.com/user-attachments/assets/7a1523fb-89c7-4b3c-aca9-4eed42ed23a3)
-![Screenshot 2025-01-16 153151](https://github.com/user-attachments/assets/9426bd53-5c7b-4018-8785-fcdd8604d3ba)
-![Screenshot 2025-01-16 152939](https://github.com/user-attachments/assets/a3810442-5499-45f1-b035-a6baa82fe80c)
-![Screenshot 2025-01-16 153300](https://github.com/user-attachments/assets/2d4cb705-03e0-4268-b6ac-13102f635a52)
-![Screenshot 2025-01-16 153209](https://github.com/user-attachments/assets/f02b9a13-88ef-4169-adb7-151f11aa3c79)
-![twilio_sms](https://github.com/user-attachments/assets/aafbe1a8-a010-473c-af31-94277376f851)
-![gmail_email](https://github.com/user-attachments/assets/366db4bd-e036-437a-b8fd-8ccf021c9021)
+![Screenshot 2025-01-16 152108](https://github.com/user-attachments/assets/ee386836-4bbd-47ff-b87e-e3328323ff26)
+![Screenshot 2025-01-16 152748](https://github.com/user-attachments/assets/a95fc755-3ca8-4cf0-8820-32e984675601)
+![Screenshot 2025-01-16 152939](https://github.com/user-attachments/assets/dd24879b-dfeb-4068-b64c-3ddb5b243af0)
+![Screenshot 2025-01-16 153151](https://github.com/user-attachments/assets/4ac6b2fd-a5e6-46f3-be84-c41545a18d39)
+![Screenshot 2025-01-16 153300](https://github.com/user-attachments/assets/9b72322f-0d4c-43ba-b4f1-ae74bc5018ab)
+![Screenshot 2025-01-16 153209](https://github.com/user-attachments/assets/a5d219c1-174e-4d63-a766-7120fc5949b5)
+
+
+
+
+![twilio_sms](https://github.com/user-attachments/assets/bccd223d-7227-4757-9d8f-c21626a2f20a)
+![gmail_email](https://github.com/user-attachments/assets/4b7a4bdc-cf6a-415a-b8f4-b6ca33f746da)
+
